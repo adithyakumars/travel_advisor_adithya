@@ -64,7 +64,3 @@ const Map = ({ setCoordinates, setBounds, coordinates, places, setChildClicked, 
 }
        
 export default Map;
-
-// google maps api key : AIzaSyAWDZI167uYvA2Gs2BLji1dFNezYU44Sfc or  AIzaSyC7RaSQ1pl-ySSBdDnFM_cVvJnOx0XftPk
-// bing maps api key : ArsODT1UsVpuWCTO4gs7KHuNWK3r1PZDSp_snKIXRFf42WgUE-G42JHn6atAZp7g
-// tomtom maps api key : RKDpaNtRmvcdzhDKVe8HkP0d00IAgmoK
